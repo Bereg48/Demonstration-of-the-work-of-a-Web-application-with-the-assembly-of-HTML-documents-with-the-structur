@@ -5,7 +5,7 @@
   
 ### 1. Склонируйте репозиторий на свой локальный компьютер:
 
-        1- git clone https://github.com/Bereg48/Demonstration-of-the-work-of-a-Web-application-with-the-assembly-of-HTML-documents-with-the-structur.git
+         git clone https://github.com/Bereg48/Demonstration-of-the-work-of-a-Web-application-with-the-assembly-of-HTML-documents-with-the-structur.git
 
 ### 2. Для запуска приложения необходимо настроить виртуальное окружение и установить все необходимые зависимости с помощью команд:
     Команда для Windows:
